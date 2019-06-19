@@ -1,12 +1,13 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: Sukumu values
+published: true
 ---
 ### Sukumu coffee
-The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Testing 1.
 
-### Sukumu origin
+### Sukumu Style
 The name of the coffee is then usually the place it was grown to whatever degree available.
 
 ### Sukumu Sustainable farming
@@ -16,4 +17,4 @@ What grows where and how it is grown are a matter of choice and careful consider
 Direct trade is a form of sourcing practiced by some coffee roasters. 
 
 ### Sukumu profits
-We want to truly empower the communities that bring amazing coffee to you. 
+We want to truly empower the communities that bring amazing coffee to you.

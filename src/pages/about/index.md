@@ -5,10 +5,10 @@ title: Sukumu values
 published: true
 ---
 ### Sukumu coffee
-Testing 3.
+Testing 4.
 
 ### Sukumu Style
-The name of the coffee is then usually the place it was grown to whatever degree available.
+The name & style is the greatest degree available.
 
 ### Sukumu Sustainable
 What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.

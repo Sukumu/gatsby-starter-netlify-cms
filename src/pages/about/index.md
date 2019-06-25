@@ -1,8 +1,7 @@
 ---
-templateKey: about-page
+templateKey: 'about-page'
 path: /about
-title: Sukumu values
-published: true
+title: About Sukumu
 ---
 ### Sukumu coffee
 Testing 22.
@@ -17,4 +16,4 @@ What grows where and how it is grown are a matter of choice and careful consider
 Direct trade is a form of sourcing practiced by some coffee roasters. 
 
 ### Sukumu profits
-Sukumu makes profit. e want to truly empower the communities that bring amazing coffee to you.
+Sukumu makes profit. e want to truly empower the communities that bring amazing coffee to you. https://sukumumedia.netlify.com

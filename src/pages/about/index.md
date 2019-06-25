@@ -4,10 +4,10 @@ path: /about
 title: About Sukumu
 ---
 ### Sukumu coffee
-Testing 22.
+Testing 23.
 
 ### Sukumu Style
-The name & style is the greatest degree available.
+The name Sukumu & style is the greatest degree available.
 
 ### Sukumu Sustainable
 What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.

@@ -5,7 +5,7 @@ title: Sukumu values
 published: true
 ---
 ### Sukumu coffee
-Testing 11.
+Testing.
 
 ### Sukumu Style
 The name & style is the greatest degree available.
@@ -17,4 +17,4 @@ What grows where and how it is grown are a matter of choice and careful consider
 Direct trade is a form of sourcing practiced by some coffee roasters. 
 
 ### Sukumu profits
-We want to truly empower the communities that bring amazing coffee to you.
+Sukumu makes profit. e want to truly empower the communities that bring amazing coffee to you.
